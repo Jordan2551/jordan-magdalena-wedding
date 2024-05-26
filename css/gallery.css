@@ -1,0 +1,13 @@
+.thumbnail {
+  object-fit: cover;
+  margin: 2px;
+}
+
+.thumbnail.vertical {
+  width: 240px;
+  height: 360px;
+}
+.thumbnail.horizontal {
+  width: 364px;
+  height: 240px;
+}
